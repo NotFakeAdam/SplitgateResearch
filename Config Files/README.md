@@ -21,4 +21,4 @@ Help with the DefaultGame config.
 | [OnlineSubsystem1047] |  |
 | - | - |
 | bEnabled | `=True/False` |
-| BackendURL | `="URL"` `Default =` `"https://api.splitgate.com"` |
+| BackendURL | `="URL"` `Default ="https://api.splitgate.com"` |
