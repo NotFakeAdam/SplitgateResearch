@@ -8,3 +8,5 @@ Help with the DefaultGame config.
 | GUID | `=NUMBERS` |
 | FString | `=TEXT` |
 | Float | `=FLOAT VAlUE` |
+| FName | `=TEXT` |
+| int32_t | `=NUMBER` |
