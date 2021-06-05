@@ -5,3 +5,5 @@ Help with the DefaultGame config.
 | [/Script/ | MODULE.CLASS] |
 | - | - |
 | Bool | `=True/False` |
+| GUID | `=NUMBERS` |
+| FString | `=TEXT` |
