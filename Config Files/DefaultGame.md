@@ -1,7 +1,7 @@
 # Default Game Values
 Help with the DefaultGame config.
 
-## Request
+## Variables
 | [/Script/ | MODULE.CLASS] |
 | - | - |
 | Bool | `=True/False` |
