@@ -16,3 +16,9 @@ Help with the DefaultGame config.
 | [Core.Log] |  |
 | - | - |
 | Options | `=All` `=Warning` `=Error` `=Verbose` `=VeryVerbose` |
+
+## Splitgate Specific
+| [OnlineSubsystem1047] |  |
+| - | - |
+| bEnabled | `=True/False` |
+| BackendURL | `="URL"` `Default =` `"https://api.splitgate.com"` |
