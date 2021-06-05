@@ -11,7 +11,7 @@ Region: `US_WEST, US_EAST, EUROPE, JAPAN`
 {
 	"playlists": [
 		{
-			"type": "UNRANKED_TEAM_SOCIAL",
+			"type": "GAMETYPE",
 			"gameModes": [
 				"GAMEMODE",
 				"GAMEMODE",
