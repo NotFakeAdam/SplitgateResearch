@@ -7,3 +7,4 @@ Help with the DefaultGame config.
 | Bool | `=True/False` |
 | GUID | `=NUMBERS` |
 | FString | `=TEXT` |
+| Float | `=FLOAT VAlUE` |
