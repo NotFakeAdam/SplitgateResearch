@@ -10,3 +10,4 @@ Help with the DefaultGame config.
 | Float | `=FLOAT VALUE` |
 | FName | `=TEXT` |
 | int32_t | `=NUMBER` |
+| FSoftClassPath | `=/Game/Globals/PortalWarsGlobals_BP.PortalWarsGlobals_BP_C` `<-- EXAMPLE`
