@@ -14,4 +14,5 @@ Help with the DefaultGame config.
 
 ## Engine
 | [Core.Log] |  |
+| - | - |
 | Options | `=All` `=Warning` `=Error` `=Verbose` `=VeryVerbose` |
