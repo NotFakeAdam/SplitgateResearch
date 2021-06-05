@@ -2,9 +2,11 @@
 Starting the a match.
 
 ## Data
-Game Types: `UNRANKED_TEAM_SOCIAL` `RANKED_TAKEDOWN`	
+Game Types: `UNRANKED_TEAM_SOCIAL` `RANKED_TAKEDOWN`	 
+
 Game Modes: `LTAG, TBC, FFA, TDM, DOM, ` "Select at least 3"	
-Region: `US_WEST, US_EAST, EUROPE, JAPAN`	
+ 	
+Region: `US_WEST, US_EAST, EUROPE, JAPAN`	 	
 
 ## Body
 ```json
