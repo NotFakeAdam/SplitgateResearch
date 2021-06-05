@@ -25,5 +25,5 @@ Region: `US_WEST, US_EAST, EUROPE, JAPAN`
 }
 ```
 
-## Parameters
-- `targetItemId`: ID of item
+## Authorization
+- `Authorization`: `TOKEN`
