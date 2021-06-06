@@ -4,7 +4,7 @@ Starting the a match.
 ## Data
 Game Types: `UNRANKED_TEAM_SOCIAL` `RANKED_TAKEDOWN`	 
 
-Game Modes: `LTAG, TBC, FFA, TDM, DOM, ` "Select at least 3"	
+Game Modes: `LTAG, TDM, KOTH, DOM, VIP, TOB, SWAT, SHOTSNIP, FFA, GG, TD, IG, TBC` "Select at least 3"	
  	
 Region: `US_WEST, US_EAST, EUROPE, JAPAN`	 	
 
@@ -21,11 +21,11 @@ Region: `US_WEST, US_EAST, EUROPE, JAPAN`
 			]
 		}
 	],
-	"region": "US_WEST",
+	"region": "REGION",
 	"crossPlatform": true,
 	"queueReason": "NORMAL"
 }
 ```
 
-## Authorization
+## Header's
 - `Authorization`: TOKEN
