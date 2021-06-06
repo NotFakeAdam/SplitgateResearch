@@ -1,7 +1,7 @@
 # Create Custom Game's
 Starting a custom game.
 
-## Data
+## Data `POST`
 MaxSpectators: `VALUE`	 
 
 MaxPlayers: `VALUE`
