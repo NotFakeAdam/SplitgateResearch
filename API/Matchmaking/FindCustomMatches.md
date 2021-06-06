@@ -1,5 +1,5 @@
 # Finding Custom Matches
-Info on private session's.
+Info on private session's such as Player Count, Region, Spectators, Map, Gamemode.
 
 ## Data `POST`
  	

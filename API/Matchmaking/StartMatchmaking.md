@@ -1,5 +1,5 @@
 # Start Matchmaking
-Starting the a match.
+Starting a match of splitgate.
 
 ## Data `POST`
 Game Types: `UNRANKED_TEAM_SOCIAL` `RANKED_TAKEDOWN`	 
