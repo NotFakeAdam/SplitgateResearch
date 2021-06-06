@@ -8,7 +8,11 @@ MaxPlayers: `VALUE`
 
 Name: `Any text`
  	
-Region: `US_WEST, US_EAST, EU_CENTRAL, JAPAN`	 	
+Region: `US_WEST, US_EAST, EU_CENTRAL, JAPAN`	
+ 	
+## URL
+
+`https://api.splitgate.com/game-client/create-custom-game`
 
 ## Body
 ```json

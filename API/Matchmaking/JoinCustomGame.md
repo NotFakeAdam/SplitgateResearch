@@ -9,6 +9,10 @@ Password: Text
 
 AsSpectator: True/False 	
 
+## URL
+
+`https://api.splitgate.com/game-client/join-custom-game`
+
 ## Body
 ```json
 {

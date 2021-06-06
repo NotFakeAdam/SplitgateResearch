@@ -4,6 +4,10 @@ Info on private session's such as Player Count, Region, Spectators, Map, Gamemod
 ## Data `POST`
  	
 
+## URL
+
+`https://api.splitgate.com/game-client/find-custom-games`
+
 ## Body
 ```json
 {
