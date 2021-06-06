@@ -1,5 +1,5 @@
 # Finding Custom Matches
-Joinin private session's via Session ID.
+Joining private session's via Session ID.
 
 ## Data `POST`
 
