@@ -7,6 +7,10 @@ PlatformAuthToken: TOKEN
 
 AuthToken: AUTHTOKEN 	
 
+## URL
+
+`https://api.splitgate.com/game-client/auth-token`
+
 ## Body
 ```json
 {
