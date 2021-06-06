@@ -1,4 +1,4 @@
-# Finding Custom Matches
+# Joining Custom Matches
 Joining private session's via Session ID.
 
 ## Data `POST`
