@@ -6,7 +6,7 @@ Claim your daily item.
 
 ## URL
 
-`https://api.splitgate.com/game-client/claim-daily-check-in`
+`http://api.splitgate.com/game-client/redeem-daily-check-in`
 
 ## Body
 ```json
