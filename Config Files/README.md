@@ -1,5 +1,5 @@
 # Default Game Values
-Help with the DefaultGame config.
+Help with the games config files.
 
 ## Variables
 | [/Script/ | MODULE.CLASS] |
