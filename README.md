@@ -7,7 +7,7 @@
   
 - Auth Token
   - To find your authentication token go to your `LocalAppData/PortalWars/Saved/SaveGames/*.sav`, 
-  - Open the most recently made *.sav and search for `LoginAuthToken`, the code there (It is 420 Characters) will be used to authenticate with the splitgate API
+  - Open the most recently made *.sav and search for `LoginAuthToken`, the code there (It is roughly 420 Characters) will be used to authenticate with the splitgate API
 
 # Unofficial API's
 - Links
