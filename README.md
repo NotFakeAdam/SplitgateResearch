@@ -1,5 +1,5 @@
 # Splitgate Research
-Documentation about the API of the popular game splitgate!
+**Documentation about the API of the popular game splitgate!**
 
 - **Me**
   - My [Twitter](https://twitter.com/notfakeadam) (NotFakeAdam)
