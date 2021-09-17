@@ -1,5 +1,9 @@
-# SplitgateResearch
-Documentation about the game splitgate!
+# Splitgate Research
+Documentation about the API of the popular game splitgate!
+
+- Me
+My [Twitter](https://twitter.com/notfakeadam)
+My Discord : `Adаm#0001` (Copy and Paste it)
 
 # Unofficial API's
 - Links
