@@ -1,7 +1,7 @@
 # Splitgate Research
 Documentation about the API of the popular game splitgate!
 
-- Me
+- **Me**
   - My [Twitter](https://twitter.com/notfakeadam) (NotFakeAdam)
   - My Discord : `Adаm#0001` (Copy and Paste it)
 
