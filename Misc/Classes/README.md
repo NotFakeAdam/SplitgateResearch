@@ -1,7 +1,7 @@
 # Class Dump
 **A class dump i did**
 
-*Can be useful if you know what you are doing.*
+*Can be useful if you know what you are doing.* *(Any issues please tell me!)*
 	
 - Contains	 
   - [Classes]()	 
