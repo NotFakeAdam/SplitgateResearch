@@ -3,17 +3,17 @@
 
 *Can be useful if you know what you are doing.*
 	
-[Classes](https://github.com/NotFakeAdam/SplitgateResearch/blob/blob/main/Misc/Classes/README.md#L9)
+[Classes](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L9)
 	
-[Enums](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L644)	
+[Enums](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L644)	
 	
-[Structs](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L737)	
+[Structs](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L737)	
 	
-[Functions](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L870) 
+[Functions](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L870) 
 	
-[Misc](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L2266)	
+[Misc](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L2266)	
 	
-[More classes](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L3491)
+[More classes](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L3491)
 
 ```
 Dump
@@ -3244,19 +3244,19 @@ AssetTagsSubsystem /Engine/Transient.PortalWarsGameEngine_2147482610.AssetTagsSu
 DataDrivenCVarEngineSubsystem /Engine/Transient.PortalWarsGameEngine_2147482610.DataDrivenCVarEngineSubsystem_2147482608
 HLODEngineSubsystem /Engine/Transient.PortalWarsGameEngine_2147482610.HLODEngineSubsystem_2147482607
 PortalWarsButton /Game/UI/Components/ButtonBase.ButtonBase_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/RewardCenter/Components/RepairButton.RepairButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/RewardCenter/Components/RepairButton.RepairButton_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Progression/RewardReceivedEntry_WidgetBP.RewardReceivedEntry_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/MenuButtonBase.MenuButtonBase_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/RedeemButton.RedeemButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/BattlePass/Components/BattlePassRedeemableButton.BattlePassRedeemableButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/BattlePass/Components/BattlePassRedeemableButton.BattlePassRedeemableButton_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/BackButton.BackButton_C.WidgetTree.Button
 Package /Game/Blueprints/PortalWarsLocalPlayer_BP
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeEntryLarge_WidgetBP.ChallengeEntryLarge_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/BattlePass/Components/BattlePassPurchaseButton.BattlePassPurchaseButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopEntryMedium_WidgetBP.ItemShopEntryMedium_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopEntrySmall_WidgetBP.ItemShopEntrySmall_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopEntryFeatured_WidgetBP.ItemShopEntryFeatured_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopEntryBig_WidgetBP.ItemShopEntryBig_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeEntryLarge_WidgetBP.ChallengeEntryLarge_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/BattlePass/Components/BattlePassPurchaseButton.BattlePassPurchaseButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShopEntryMedium_WidgetBP.ItemShopEntryMedium_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShopEntrySmall_WidgetBP.ItemShopEntrySmall_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShopEntryFeatured_WidgetBP.ItemShopEntryFeatured_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShopEntryBig_WidgetBP.ItemShopEntryBig_WidgetBP_C.WidgetTree.Button
 BlueprintGeneratedClass /Game/Blueprints/PortalWarsLocalPlayer_BP.PortalWarsLocalPlayer_BP_C
 PortalWarsLocalPlayer_BP_C /Game/Blueprints/PortalWarsLocalPlayer_BP.Default__PortalWarsLocalPlayer_BP_C
 SystemTimeTimecodeProvider /Engine/Transient.PortalWarsGameEngine_2147482610.DefaultTimecodeProvider_2147482605
@@ -3337,111 +3337,111 @@ SizeBox /Engine/Transient.PortalWarsGameEngine_2147482610.PortalWarsGameInstance
 SizeBoxSlot /Engine/Transient.PortalWarsGameEngine_2147482610.PortalWarsGameInstance_BP_C_2147482601.LoadingScreen_C_2147482574.WidgetTree.SizeBox_0.SizeBoxSlot_0
 RichTextBlock /Engine/Transient.PortalWarsGameEngine_2147482610.PortalWarsGameInstance_BP_C_2147482601.LoadingScreen_C_2147482574.WidgetTree.TipRichTextBlock
 PWRichTextBlockInputDecorator /Engine/Transient.PortalWarsGameEngine_2147482610.PortalWarsGameInstance_BP_C_2147482601.LoadingScreen_C_2147482574.WidgetTree.TipRichTextBlock.PWRichTextBlockInputDecorator_2147482573
-PortalWarsButton /Game/UI/blob/mainMenu/Components/CustomScrollHorizontal_WidgetBP.CustomScrollHorizontal_WidgetBP_C.WidgetTree.NextButton
-PortalWarsButton /Game/UI/blob/mainMenu/Components/CustomScrollHorizontal_WidgetBP.CustomScrollHorizontal_WidgetBP_C.WidgetTree.PrevButton
-PortalWarsButton /Game/UI/blob/mainMenu/Components/SettingsButton.SettingsButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Components/NotificationButton.NotificationButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/CustomScrollHorizontal_WidgetBP.CustomScrollHorizontal_WidgetBP_C.WidgetTree.NextButton
+PortalWarsButton /Game/UI/mainMenu/Components/CustomScrollHorizontal_WidgetBP.CustomScrollHorizontal_WidgetBP_C.WidgetTree.PrevButton
+PortalWarsButton /Game/UI/mainMenu/Components/SettingsButton.SettingsButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/NotificationButton.NotificationButton_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/NavBar/SubNavButton.SubNavButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/Components/RewardCenterButton.RewardCenterButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/Components/RewardCenterButton.RewardCenterButton_C.WidgetTree.Button
 PortalWarsComboBoxString /Game/UI/Components/Input/Dropdown.Dropdown_C.WidgetTree.ComboBox
-PortalWarsButton /Game/UI/blob/mainMenu/Components/PlayerWallet_WidgetBP.PlayerWallet_WidgetBP_C.WidgetTree.CurrencyButton
+PortalWarsButton /Game/UI/mainMenu/Components/PlayerWallet_WidgetBP.PlayerWallet_WidgetBP_C.WidgetTree.CurrencyButton
 PortalWarsButton /Game/UI/Lobby/Input/MapSelector.MapSelector_C.WidgetTree.LeftButton
 PortalWarsButton /Game/UI/Lobby/Input/MapSelector.MapSelector_C.WidgetTree.RightButton
-PortalWarsButton /Game/UI/blob/mainMenu/Career/Replays/ReplayEntryRow_WidgetBP.ReplayEntryRow_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/ServerEntryRow_WidgetBP.ServerEntryRow_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Career/Replays/ReplayEntryRow_WidgetBP.ReplayEntryRow_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/ServerEntryRow_WidgetBP.ServerEntryRow_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Lobby/Input/TextSelector.TextSelector_C.WidgetTree.LeftButton
 PortalWarsButton /Game/UI/Lobby/Input/TextSelector.TextSelector_C.WidgetTree.RightButton
 PortalWarsButton /Game/UI/Lobby/Input/GlobalSelector.GlobalSelector_C.WidgetTree.LeftButton
 PortalWarsButton /Game/UI/Lobby/Input/GlobalSelector.GlobalSelector_C.WidgetTree.RightButton
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/LockerButtonMedium_WidgetBP.LockerButtonMedium_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/LockerButtonLarge_WidgetBP.LockerButtonLarge_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Notification/AlertButton.AlertButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/LockerButtonMedium_WidgetBP.LockerButtonMedium_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/LockerButtonLarge_WidgetBP.LockerButtonLarge_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Notification/AlertButton.AlertButton_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/Input/NumericCarousel.NumericCarousel_C.WidgetTree.LeftButton
 PortalWarsButton /Game/UI/Components/Input/NumericCarousel.NumericCarousel_C.WidgetTree.RightButton
 PortalWarsButton /Game/UI/Social/SocialPlayerEntry_WidgetBP.SocialPlayerEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/Components/CancelButton.CancelButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Components/LightRedButtonBase.LightRedButtonBase_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/Components/CancelButton.CancelButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/LightRedButtonBase.LightRedButtonBase_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Settings/Components/ControllerBindingAction.ControllerBindingAction_C.WidgetTree.ActionButton
 PortalWarsButton /Game/UI/Settings/Components/WarningText.WarningText_C.WidgetTree.DummyButton
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/LockerParentItemEntry_WidgetBP.LockerParentItemEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/LockerParentItemEntry_WidgetBP.LockerParentItemEntry_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/NavBar/SideNavButton.SideNavButton_C.WidgetTree.Button
-PortalWarsScrollBox /Game/UI/blob/mainMenu/Career/Leaderboards/Leaderboard_WidgetBP.Leaderboard_WidgetBP_C.WidgetTree.LeaderboardPanel
+PortalWarsScrollBox /Game/UI/mainMenu/Career/Leaderboards/Leaderboard_WidgetBP.Leaderboard_WidgetBP_C.WidgetTree.LeaderboardPanel
 PortalWarsComboBoxString /Game/UI/Settings/Components/CrosshairSelect.CrosshairSelect_C.WidgetTree.CrosshairComboBox
-PortalWarsButton /Game/UI/blob/mainMenu/BattlePass/BattlePassEntry_WidgetBP.BattlePassEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Components/GoldButtonBase.GoldButtonBase_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/ReferralPass/ReferralPassEntry_WidgetBP.ReferralPassEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Components/BlueButtonBase.BlueButtonBase_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/BattlePass/BattlePassEntry_WidgetBP.BattlePassEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/GoldButtonBase.GoldButtonBase_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/ReferralPass/ReferralPassEntry_WidgetBP.ReferralPassEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/BlueButtonBase.BlueButtonBase_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Settings/Components/GamepadCustomizeButton.GamepadCustomizeButton_C.WidgetTree.CustomizeButton
-PortalWarsButton /Game/UI/blob/mainMenu/Play/Components/ServerBrowserCarousel.ServerBrowserCarousel_C.WidgetTree.LeftButton
-PortalWarsButton /Game/UI/blob/mainMenu/Play/Components/ServerBrowserCarousel.ServerBrowserCarousel_C.WidgetTree.RightButton
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/Components/ItemShopPurchaseButton.ItemShopPurchaseButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopInspectEntry_WidgetBP.ItemShopInspectEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/Components/ServerBrowserCarousel.ServerBrowserCarousel_C.WidgetTree.LeftButton
+PortalWarsButton /Game/UI/mainMenu/Play/Components/ServerBrowserCarousel.ServerBrowserCarousel_C.WidgetTree.RightButton
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/Components/ItemShopPurchaseButton.ItemShopPurchaseButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShopInspectEntry_WidgetBP.ItemShopInspectEntry_WidgetBP_C.WidgetTree.Button
 PortalWarsCheckBox /Game/UI/Components/Input/CheckBox.CheckBox_C.WidgetTree.CheckBox
 PortalWarsButton /Game/UI/Components/Input/RadioEntry.RadioEntry_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/ViewButton.ViewButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/NewsFeed/Components/FeedActionButton.FeedActionButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeInspectEntry_WidgetBP.ChallengeInspectEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/ViewButton.ViewButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/NewsFeed/Components/FeedActionButton.FeedActionButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeInspectEntry_WidgetBP.ChallengeInspectEntry_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/NavBar/NavButton.NavButton_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Settings/Components/GamepadSelectCarousel.GamepadSelectCarousel_C.WidgetTree.LeftButton
 PortalWarsButton /Game/UI/Settings/Components/GamepadSelectCarousel.GamepadSelectCarousel_C.WidgetTree.RightButton
-PortalWarsButton /Game/UI/blob/mainMenu/Components/RedButtonBase.RedButtonBase_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeEntryFeatured_WidgetBP.ChallengeEntryFeatured_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeEntryFeaturedLarge_WidgetBP.ChallengeEntryFeaturedLarge_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/RedButtonBase.RedButtonBase_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeEntryFeatured_WidgetBP.ChallengeEntryFeatured_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeEntryFeaturedLarge_WidgetBP.ChallengeEntryFeaturedLarge_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/ButtonBase2.ButtonBase2_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/LockerButtonSmall_WidgetBP.LockerButtonSmall_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/RewardCenter/Components/CopyButton.CopyButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/Currency/Components/CurrencyRetryButton.CurrencyRetryButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeEntrySmall_WidgetBP.ChallengeEntrySmall_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/LockerButtonSmall_WidgetBP.LockerButtonSmall_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/RewardCenter/Components/CopyButton.CopyButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/Currency/Components/CurrencyRetryButton.CurrencyRetryButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeEntrySmall_WidgetBP.ChallengeEntrySmall_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Pause/PausePlayerEntry_WidgetBP.PausePlayerEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeEntryMedium_WidgetBP.ChallengeEntryMedium_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/GameModeEntry_WidgetBP.GameModeEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/Components/PlayButton.PlayButton_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/Currency/CurrencyStoreEntryMedium_WidgetBP.CurrencyStoreEntryMedium_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/Currency/CurrencyStoreEntryBig_WidgetBP.CurrencyStoreEntryBig_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/Components/PlayButton2.PlayButton2_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Components/PlayerCard_WidgetBP.PlayerCard_WidgetBP_C.WidgetTree.LockerButton
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/LockerButtonPlayer_WidgetBP.LockerButtonPlayer_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/Currency/CurrencyStoreEntrySmall_WidgetBP.CurrencyStoreEntrySmall_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Party/PartyEntry_WidgetBP.PartyEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Party/PartyEntry_WidgetBP.PartyEntry_WidgetBP_C.WidgetTree.InviteButton
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/LockerHorizontalItemEntry_WidgetBP.LockerHorizontalItemEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopBattlePassEntry_WidgetBP.ItemShopBattlePassEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Locker/Components/LockerVerticalItemEntry_WidgetBP.LockerVerticalItemEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Career/Leaderboards/RankLeaderboardEntry_WidgetBP.RankLeaderboardEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeEntryMedium_WidgetBP.ChallengeEntryMedium_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/GameModeEntry_WidgetBP.GameModeEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/Components/PlayButton.PlayButton_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/Currency/CurrencyStoreEntryMedium_WidgetBP.CurrencyStoreEntryMedium_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/Currency/CurrencyStoreEntryBig_WidgetBP.CurrencyStoreEntryBig_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/Components/PlayButton2.PlayButton2_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/PlayerCard_WidgetBP.PlayerCard_WidgetBP_C.WidgetTree.LockerButton
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/LockerButtonPlayer_WidgetBP.LockerButtonPlayer_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/Currency/CurrencyStoreEntrySmall_WidgetBP.CurrencyStoreEntrySmall_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Party/PartyEntry_WidgetBP.PartyEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Party/PartyEntry_WidgetBP.PartyEntry_WidgetBP_C.WidgetTree.InviteButton
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/LockerHorizontalItemEntry_WidgetBP.LockerHorizontalItemEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShopBattlePassEntry_WidgetBP.ItemShopBattlePassEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Locker/Components/LockerVerticalItemEntry_WidgetBP.LockerVerticalItemEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Career/Leaderboards/RankLeaderboardEntry_WidgetBP.RankLeaderboardEntry_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Settings/Components/KeybindEntry.KeybindEntry_C.WidgetTree.PrimaryButton
 PortalWarsButton /Game/UI/Settings/Components/KeybindEntry.KeybindEntry_C.WidgetTree.SecondaryButton
-PortalWarsComboBoxString /Game/UI/blob/mainMenu/Career/Stats/StatsPlaylist_WidgetBP.StatsPlaylist_WidgetBP_C.WidgetTree.PlaylistComboBox
-PortalWarsComboBoxString /Game/UI/blob/mainMenu/Career/Stats/StatsOverview_WidgetBP.StatsOverview_WidgetBP_C.WidgetTree.SeasonComboBox
+PortalWarsComboBoxString /Game/UI/mainMenu/Career/Stats/StatsPlaylist_WidgetBP.StatsPlaylist_WidgetBP_C.WidgetTree.PlaylistComboBox
+PortalWarsComboBoxString /Game/UI/mainMenu/Career/Stats/StatsOverview_WidgetBP.StatsOverview_WidgetBP_C.WidgetTree.SeasonComboBox
 PortalWarsCheckBox /Game/UI/Settings/Components/ColorPicker.ColorPicker_C.WidgetTree.SliderToggle
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeButtonWeapon_WidgetBP.ChallengeButtonWeapon_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeButtonMedium_WidgetBP.ChallengeButtonMedium_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeButtonLarge_WidgetBP.ChallengeButtonLarge_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Challenges/ChallengeButtonSmall_WidgetBP.ChallengeButtonSmall_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/PlaylistEntry_WidgetBP.PlaylistEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeButtonWeapon_WidgetBP.ChallengeButtonWeapon_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeButtonMedium_WidgetBP.ChallengeButtonMedium_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeButtonLarge_WidgetBP.ChallengeButtonLarge_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Challenges/ChallengeButtonSmall_WidgetBP.ChallengeButtonSmall_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Play/PlaylistEntry_WidgetBP.PlaylistEntry_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Components/FeatureButtonBase.FeatureButtonBase_C.WidgetTree.Button
-PortalWarsScrollBox /Game/UI/blob/mainMenu/Store/Currency/CurrencyPurchaseDialog_WidgetBP.CurrencyPurchaseDialog_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0
-ScrollBoxSlot /Game/UI/blob/mainMenu/Store/Currency/CurrencyPurchaseDialog_WidgetBP.CurrencyPurchaseDialog_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0.ScrollBoxSlot_0
+PortalWarsScrollBox /Game/UI/mainMenu/Store/Currency/CurrencyPurchaseDialog_WidgetBP.CurrencyPurchaseDialog_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0
+ScrollBoxSlot /Game/UI/mainMenu/Store/Currency/CurrencyPurchaseDialog_WidgetBP.CurrencyPurchaseDialog_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0.ScrollBoxSlot_0
 PortalWarsButton /Game/UI/Social/InviteEntry_WidgetBP.InviteEntry_WidgetBP_C.WidgetTree.Button
 PortalWarsButton /Game/UI/Social/FriendRequestEntry_WidgetBP.FriendRequestEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Play/PlaylistCategoryEntry_WidgetBP.PlaylistCategoryEntry_WidgetBP_C.WidgetTree.Button
-PortalWarsButton /Game/UI/blob/mainMenu/Components/GreenButtonBase.GreenButtonBase_C.WidgetTree.Button
-PortalWarsScrollBox /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopInspect_WidgetBP.ItemShopInspect_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0
-ScrollBoxSlot /Game/UI/blob/mainMenu/Store/ItemShop/ItemShopInspect_WidgetBP.ItemShopInspect_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0.ScrollBoxSlot_0
+PortalWarsButton /Game/UI/mainMenu/Play/PlaylistCategoryEntry_WidgetBP.PlaylistCategoryEntry_WidgetBP_C.WidgetTree.Button
+PortalWarsButton /Game/UI/mainMenu/Components/GreenButtonBase.GreenButtonBase_C.WidgetTree.Button
+PortalWarsScrollBox /Game/UI/mainMenu/Store/ItemShop/ItemShopInspect_WidgetBP.ItemShopInspect_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0
+ScrollBoxSlot /Game/UI/mainMenu/Store/ItemShop/ItemShopInspect_WidgetBP.ItemShopInspect_WidgetBP_C.WidgetTree.PortalWarsScrollBox_0.ScrollBoxSlot_0
 PortalWarsButton /Game/UI/Settings/Components/GamepadBindingLeft.GamepadBindingLeft_C.WidgetTree.BindingButton
 PortalWarsButton /Game/UI/Settings/Components/GamepadBindingRight.GamepadBindingRight_C.WidgetTree.BindingButton
-PortalWarsComboBoxString /Game/UI/blob/mainMenu/Career/Leaderboards/RankLeaderboard_WidgetBP.RankLeaderboard_WidgetBP_C.WidgetTree.PlaylistComboBox
+PortalWarsComboBoxString /Game/UI/mainMenu/Career/Leaderboards/RankLeaderboard_WidgetBP.RankLeaderboard_WidgetBP_C.WidgetTree.PlaylistComboBox
 PortalWarsWidgetSwitcher /Game/UI/Social/FriendsList_WidgetBP.FriendsList_WidgetBP_C.WidgetTree.WidgetSwitcher
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShop_WidgetBP.ItemShop_WidgetBP_C.WidgetTree.NextButton
-PortalWarsButton /Game/UI/blob/mainMenu/Store/ItemShop/ItemShop_WidgetBP.ItemShop_WidgetBP_C.WidgetTree.PreviousButton
-PortalWarsScrollBox /Game/UI/blob/mainMenu/Store/ItemShop/ItemShop_WidgetBP.ItemShop_WidgetBP_C.WidgetTree.ItemsPanel
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShop_WidgetBP.ItemShop_WidgetBP_C.WidgetTree.NextButton
+PortalWarsButton /Game/UI/mainMenu/Store/ItemShop/ItemShop_WidgetBP.ItemShop_WidgetBP_C.WidgetTree.PreviousButton
+PortalWarsScrollBox /Game/UI/mainMenu/Store/ItemShop/ItemShop_WidgetBP.ItemShop_WidgetBP_C.WidgetTree.ItemsPanel
 PortalWarsWidgetSwitcher /Game/UI/Social/SocialInvite_WidgetBP.SocialInvite_WidgetBP_C.WidgetTree.WidgetSwitcher
 PortalWarsWidgetSwitcher /Game/UI/Settings/Settings_WidgetBP.Settings_WidgetBP_C.WidgetTree.WidgetSwitcher
-PortalWarsWorldSettings /Game/Maps/blob/mainMenu.MainMenu.PersistentLevel.PortalWarsWorldSettings
-BookMark /Game/Maps/blob/mainMenu.MainMenu.PersistentLevel.PortalWarsWorldSettings.BookMark_0
-NavigationSystemModuleConfig /Game/Maps/blob/mainMenu.MainMenu.PersistentLevel.PortalWarsWorldSettings.NavigationSystemModuleConfig_0
-PortalWarsAvoidanceManager /Game/Maps/blob/mainMenu.MainMenu.PortalWarsAvoidanceManager_2147482559
-PortalWarsWorldSettings /Game/Environments/blob/mainMenu_Console/Maps/blob/mainMenu_Inspect.MainMenu_Inspect.PersistentLevel.PortalWarsWorldSettings
-NavigationSystemModuleConfig /Game/Environments/blob/mainMenu_Console/Maps/blob/mainMenu_Inspect.MainMenu_Inspect.PersistentLevel.PortalWarsWorldSettings.NavigationSystemModuleConfig_0
+PortalWarsWorldSettings /Game/Maps/mainMenu.MainMenu.PersistentLevel.PortalWarsWorldSettings
+BookMark /Game/Maps/mainMenu.MainMenu.PersistentLevel.PortalWarsWorldSettings.BookMark_0
+NavigationSystemModuleConfig /Game/Maps/mainMenu.MainMenu.PersistentLevel.PortalWarsWorldSettings.NavigationSystemModuleConfig_0
+PortalWarsAvoidanceManager /Game/Maps/mainMenu.MainMenu.PortalWarsAvoidanceManager_2147482559
+PortalWarsWorldSettings /Game/Environments/mainMenu_Console/Maps/mainMenu_Inspect.MainMenu_Inspect.PersistentLevel.PortalWarsWorldSettings
+NavigationSystemModuleConfig /Game/Environments/mainMenu_Console/Maps/mainMenu_Inspect.MainMenu_Inspect.PersistentLevel.PortalWarsWorldSettings.NavigationSystemModuleConfig_0
 PortalWarsAkComponent /Game/Portals/Blueprints/PortalBP.Default__PortalBP_C.AkPortal
 Package /Game/Player/PortalWarsMainMenuCharacter_BP
 Package /Game/Player/PortalWarsCharacter_BP
