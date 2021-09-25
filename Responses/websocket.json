@@ -1,0 +1,297 @@
+42["StoreUpdate", {
+    "categories": [{
+      "title": {
+        "en": "Value Bundle",
+        "de": "Value Bundle",
+        "es": "Value Bundle",
+        "fr": "Bundle abordable",
+        "it": "Value Bundle",
+        "ja": "バリューバンドル",
+        "pl": "Opłacalna Paczka",
+        "pt": "Combo Promocional",
+        "ro": "Bundle Promoțional",
+        "ru": "Набор Ценностей"
+      },
+      "sections": [{
+        "title": {
+          "en": "Value Bundle",
+          "de": "Value Bundle",
+          "es": "Value Bundle",
+          "fr": "Bundle abordable",
+          "it": "Value Bundle",
+          "ja": "バリューバンドル",
+          "pl": "Opłacalna Paczka",
+          "pt": "Combo Promocional",
+          "ro": "Bundle Promoțional",
+          "ru": "Набор Ценностей",
+          "tr": "Değerli Paket"
+        },
+        "type": "Featured",
+        "startTimeMs": 1619479800000,
+        "expirationTimeMs": 1620084600000,
+        "items": [{
+          "id": "Bundle-bundle-4411993",
+          "title": {
+            "en": "DEADLYVIBES"
+          },
+          "currencyCost": 1600,
+          "rarity": "Epic",
+          "imageUrl": "https://portalwars-public.s3-us-west-2.amazonaws.com/DeadlyVibes.png",
+          "items": [{
+            "id": "Customization-SMG-0-333",
+            "itemType": "Customization",
+            "currencyCost": 800,
+            "customization": {
+              "customizationType": "SMG",
+              "customizationValue": "0-333"
+            }
+          }, {
+            "id": "Customization-RocketLauncher-0-333",
+            "itemType": "Customization",
+            "currencyCost": 800,
+            "customization": {
+              "customizationType": "RocketLauncher",
+              "customizationValue": "0-333"
+            }
+          }, {
+            "id": "Customization-Railgun-0-333",
+            "itemType": "Customization",
+            "currencyCost": 10,
+            "customization": {
+              "customizationType": "Railgun",
+              "customizationValue": "0-333"
+            }
+          }, {
+            "id": "Customization-Bat-0-333",
+            "itemType": "Customization",
+            "currencyCost": 800,
+            "customization": {
+              "customizationType": "Bat",
+              "customizationValue": "0-333"
+            }
+          }],
+          "itemType": "Bundle"
+        }],
+        "id": "adef2d26-6454-4a09-a7c5-80d2e936bda2"
+      }, {
+        "title": {
+          "en": "Value Bundle",
+          "de": "Value Bundle",
+          "es": "Value Bundle",
+          "fr": "Bundle abordable",
+          "it": "Value Bundle",
+          "ja": "バリューバンドル",
+          "pl": "Opłacalna Paczka",
+          "pt": "Combo Promocional",
+          "ro": "Bundle Promoțional",
+          "ru": "Набор Ценностей",
+          "tr": "Değerli Paket"
+        },
+        "type": "Featured",
+        "startTimeMs": 1619739000000,
+        "expirationTimeMs": 1620343800000,
+        "items": [{
+          "id": "Bundle-bundle-9314425",
+          "title": {
+            "en": "FISSION"
+          },
+          "currencyCost": 2200,
+          "rarity": "Legendary",
+          "imageUrl": "https://portalwars-public.s3-us-west-2.amazonaws.com/Featured+Item+Template+(75).png",
+          "items": [{
+            "id": "Customization-BattleRifle-16-295",
+            "itemType": "Customization",
+            "currencyCost": 1200,
+            "customization": {
+              "customizationType": "BattleRifle",
+              "customizationValue": "16-295"
+            }
+          }, {
+            "id": "Customization-Railgun-12-295",
+            "itemType": "Customization",
+            "currencyCost": 1200,
+            "customization": {
+              "customizationType": "Railgun",
+              "customizationValue": "12-295"
+            }
+          }, {
+            "id": "Customization-Shotgun-15-295",
+            "itemType": "Customization",
+            "currencyCost": 1200,
+            "customization": {
+              "customizationType": "Shotgun",
+              "customizationValue": "15-295"
+            }
+          }],
+          "itemType": "Bundle"
+        }],
+        "id": "12120a2b-8804-40e0-a515-f82ff66a13d1"
+      }]
+    }, {
+      "title": {
+        "en": "Featured Items",
+        "de": "Sonderangebote",
+        "es": "Artículos Destacados",
+        "fr": "Objets en vedette",
+        "it": "Oggetti in Vetrina",
+        "ja": "おすすめアイテム",
+        "pl": "Niezwykłe Przedmioty",
+        "pt": "Itens da Hora",
+        "ro": "Obiecte la Promoție",
+        "ru": "Популярные продукты"
+      },
+      "sections": [{
+        "title": {
+          "en": "Featured Items",
+          "de": "Sonderangebote",
+          "es": "Artículos Destacados",
+          "fr": "Objets en vedette",
+          "it": "Oggetti in Vetrina",
+          "ja": "おすすめアイテム",
+          "pl": "Niezwykłe Przedmioty",
+          "pt": "Itens da Hora",
+          "ro": "Obiecte la Promoție",
+          "ru": "Популярные продукты",
+          "tr": "Öne Çıkan Öğeler"
+        },
+        "type": "Medium",
+        "startTimeMs": 1619479800000,
+        "expirationTimeMs": 1620084600000,
+        "items": [{
+          "id": "Customization-Armor-46-234",
+          "itemType": "Customization",
+          "currencyCost": 1200,
+          "customization": {
+            "customizationType": "Armor",
+            "customizationValue": "46-234"
+          }
+        }, {
+          "id": "Customization-PlasmaRifle-15-193",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "PlasmaRifle",
+            "customizationValue": "15-193"
+          }
+        }],
+        "wip": false,
+        "id": "f7b3a0eb-8336-4e1c-a2a0-502f63898342"
+      }, {
+        "title": {
+          "en": "Featured Items",
+          "de": "Sonderangebote",
+          "es": "Artículos Destacados",
+          "fr": "Objets en vedette",
+          "it": "Oggetti in Vetrina",
+          "ja": "おすすめアイテム",
+          "pl": "Niezwykłe Przedmioty",
+          "pt": "Itens da Hora",
+          "ro": "Obiecte la Promoție",
+          "ru": "Популярные продукты",
+          "tr": "Öne Çıkan Öğeler"
+        },
+        "type": "Medium",
+        "startTimeMs": 1619739000000,
+        "expirationTimeMs": 1620343800000,
+        "items": [{
+          "id": "Customization-Armor-40-313",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "Armor",
+            "customizationValue": "40-313"
+          }
+        }, {
+          "id": "Customization-Pistol-16-206",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "Pistol",
+            "customizationValue": "16-206"
+          }
+        }],
+        "id": "3a021ccb-a387-4881-9708-0e83895dc28d"
+      }]
+    }, {
+      "title": {
+        "en": "Daily Items",
+        "de": "Tägliche Items ",
+        "es": "Artículos Diarios",
+        "fr": "Objets du jour",
+        "it": "Oggetti Giornalieri",
+        "ja": "デイリーアイテム",
+        "pl": "Dzienne Przedmioty",
+        "pt": "Itens Diários",
+        "ro": "Obiecte Zilnice",
+        "ru": "Ежедневные Предметы"
+      },
+      "sections": [{
+        "title": {
+          "en": "Daily Items",
+          "de": "Tägliche Items",
+          "es": "Artículos Diarios",
+          "fr": "Objets du jour",
+          "it": "Oggetti Giornalieri",
+          "ja": "デイリーアイテム",
+          "pl": "Dzienne Przedmioty",
+          "pt": "Itens Diários",
+          "ro": "Obiecte Zilnice",
+          "ru": "Ежедневные Предметы",
+          "tr": "Günlük Öğeler"
+        },
+        "type": "Small",
+        "startTimeMs": 1619911800000,
+        "expirationTimeMs": 1619998200000,
+        "items": [{
+          "id": "Customization-Bat-0-122",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "Bat",
+            "customizationValue": "0-122"
+          }
+        }, {
+          "id": "Customization-DMR-0-85",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "DMR",
+            "customizationValue": "0-85"
+          }
+        }, {
+          "id": "Customization-RocketLauncher-0-91",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "RocketLauncher",
+            "customizationValue": "0-91"
+          }
+        }, {
+          "id": "Customization-Sniper-0-91",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "Sniper",
+            "customizationValue": "0-91"
+          }
+        }, {
+          "id": "Customization-Armor-39-129",
+          "itemType": "Customization",
+          "currencyCost": 800,
+          "customization": {
+            "customizationType": "Armor",
+            "customizationValue": "39-129"
+          }
+        }, {
+          "id": "Customization-Spray-48",
+          "itemType": "Customization",
+          "currencyCost": 300,
+          "customization": {
+            "customizationType": "Spray",
+            "customizationValue": "48"
+          }
+        }],
+        "id": "41876eb1-4c7e-4a6c-a1f2-22920acbffec"
+      }]
+    }]
+  }]
