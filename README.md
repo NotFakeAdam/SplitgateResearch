@@ -5,6 +5,9 @@
   - My [Twitter](https://twitter.com/notfakeadam) (NotFakeAdam)
   - My Discord : `Adаm#0001` (Copy and Paste it)
   
+- Info
+  - The base url to *most* things is `api.splitgate.com`.
+
 - Auth Token
   - To find your authentication token go to your `LocalAppData/PortalWars/Saved/SaveGames/*.sav`, 
   - Open the most recently made *.sav and search for `LoginAuthToken`, the code there will be used to authenticate with the splitgate API
