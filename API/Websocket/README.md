@@ -14,4 +14,4 @@ Contains player info, challenges etc.
   - To find your authentication token go to your `LocalAppData/PortalWars/Saved/SaveGames/*.sav`, 
   - Open the most recently made *.sav and search for `LoginAuthToken`, the code there will be used to authenticate with the splitgate API.
 
-*Referenced in [the main page](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/README#L8).
+*Referenced in [the main page](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/README.md#L8).
