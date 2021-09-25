@@ -13,5 +13,5 @@ Ping location from your auth token.
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

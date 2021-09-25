@@ -16,5 +16,5 @@ Nothing known
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

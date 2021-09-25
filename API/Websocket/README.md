@@ -8,7 +8,7 @@ Contains player info, challenges etc.
 
 `wss://api.splitgate.com/socket.io/?EIO=3&transport=websocket&authToken=AUTHKEY?encodedMetadata=DATA`
 
-## Header's
+## Headers
 
 - Metadata
   - The encoded metadata is a Base64 code of your game client.	

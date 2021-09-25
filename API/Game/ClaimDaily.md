@@ -14,5 +14,5 @@ Claim your daily item.
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN
