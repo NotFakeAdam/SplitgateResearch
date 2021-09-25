@@ -3,13 +3,13 @@
 
 *Can be useful if you know what you are doing.*
 	
- - Contains	 
-  -[Classes]()	 
-  -[Enums]()	 	
-  -[Structs]()	 	
-  -[Functions]() 	 
-  -[Misc]()	 	
-  -[More classes]()	
+- Contains	 
+  - [Classes]()	 
+  - [Enums]()	 	
+  - [Structs]()	 	
+  - [Functions]() 	 
+  - [Misc]()	 	
+  - [More classes]()	
 
 ```
 Dump
