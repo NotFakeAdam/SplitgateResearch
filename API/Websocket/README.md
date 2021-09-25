@@ -23,7 +23,8 @@ Contains player info, challenges etc.
 	"fullInstall": true
 }
 ```
-  - This equates to `ewoJImNsaWVudFZlcnNpb24iOiAiNS4wLjAiLAoJInN5c3RlbVBsYXRmb3JtIjogIldJTkRPV1MiLAoJIm9zVmVyc2lvbiI6ICJXaW5kb3dzIDEwIChSZWxlYXNlIDIwMDkpIiwKCSJkZXZpY2VJZCI6ICIzOGEzNGJmYTg5Nzg3ZTYyZGI5ZDRlODM5NTc5YjM5NSIsCgkic2NyZWVuUmVzb2x1dGlvbiI6ICIxOTIweDEwODAiLAoJImxhbmd1YWdlIjogImVuIiwKCSJmdWxsSW5zdGFsbCI6IHRydWUKfQ`.	
+  - This equates to `ewoJImNsaWVudFZlcnNpb24iOiAiNS4wLjAiLAoJInN5c3RlbVBsYXRmb3JtIjogIldJTkRPV1MiLAoJIm9zVmVyc2lvbiI6ICJXaW5kb3dzIDEwIChSZWxlYXNlIDIwMDkpIiwKCSJkZXZpY2VJZCI6ICIzOGEzNGJmYTg5Nzg3ZTYyZGI5ZDRlODM5NTc5YjM5NSIsCgkic2NyZWVuUmVzb2x1dGlvbiI6ICIxOTIweDEwODAiLAoJImxhbmd1YWdlIjogImVuIiwKCSJmdWxsSW5zdGFsbCI6IHRydWUKfQ`.
+  - I like to use [this](https://www.base64encode.org/) to encode and [this](https://www.base64decode.org/) to decode.
 
 
 - Auth Token
