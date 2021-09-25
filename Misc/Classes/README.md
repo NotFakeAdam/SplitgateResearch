@@ -3,17 +3,17 @@
 
 *Can be useful if you know what you are doing.*
 	
-[Classes](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L9)
+[Classes](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L9)
 	
-[Enums](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L644)	
+[Enums](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L644)	
 	
-[Structs](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L737)	
+[Structs](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L737)	
 	
-[Functions](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L870) 
+[Functions](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L870) 
 	
-[Misc](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L2266)	
+[Misc](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L2266)	
 	
-[More classes](https://github.com/NotFakeAdam/SplitgateResearch/main/Misc/Classes/README.md#L3491)
+[More classes](https://github.com/NotFakeAdam/SplitgateResearch/blob/main/Misc/Classes/README.md#L3491)
 
 ```
 Dump
