@@ -96,5 +96,5 @@ ID: `Cosmetic ID (Easily found in the DataTables)`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

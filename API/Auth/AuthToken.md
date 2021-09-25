@@ -22,5 +22,5 @@ AuthToken: AUTHTOKEN
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

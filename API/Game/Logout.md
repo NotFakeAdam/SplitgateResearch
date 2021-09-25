@@ -14,5 +14,5 @@ Info on private session's such as Player Count, Region, Spectators, Map, Gamemod
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

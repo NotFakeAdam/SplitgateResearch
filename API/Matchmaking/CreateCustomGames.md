@@ -31,5 +31,5 @@ Region: `US_WEST, US_EAST, EU_CENTRAL, JAPAN`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

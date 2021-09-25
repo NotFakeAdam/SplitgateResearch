@@ -17,5 +17,5 @@ Value: `Value of cosmetic`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

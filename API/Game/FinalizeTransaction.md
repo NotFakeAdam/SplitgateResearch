@@ -23,5 +23,5 @@ Price: `Cost`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

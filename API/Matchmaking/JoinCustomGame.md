@@ -22,5 +22,5 @@ AsSpectator: True/False
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

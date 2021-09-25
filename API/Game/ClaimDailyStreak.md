@@ -14,5 +14,5 @@ Claim your daily streak.
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

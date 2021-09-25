@@ -17,5 +17,5 @@ EncodedCompositePlatformIds: `ID`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

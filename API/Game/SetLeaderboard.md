@@ -19,5 +19,5 @@ TimeMS: `Time in milliseconds`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

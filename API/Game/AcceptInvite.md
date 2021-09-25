@@ -19,5 +19,5 @@ Id: `USERID`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

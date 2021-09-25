@@ -4,9 +4,9 @@ Starting a match of splitgate.
 ## Data `POST`
 Game Types: `UNRANKED_TEAM_SOCIAL` `RANKED_TAKEDOWN`	 
 
-Game Modes: `LTAG, TDM, KOTH, DOM, VIP, TOB, SWAT, SHOTSNIP, FFA, GG, TD, IG, TBC`	
+Game Modes: `LTAG, TDM, KOTH, DOM, VIP, TOB, SWAT, SHOTSNIP, FFA, GG, TD, IG, TBC` "Select at least 1"	
  	
-Region: `EU_CENTRAL`, `US_WEST`, `US_EAST`, `JAPAN`, `SOUTH_AMERICA`, `AUSTRALIA`
+Region: `US_WEST, US_EAST, EUROPE, JAPAN`
 	 	
 ## URL
 
@@ -19,8 +19,6 @@ Region: `EU_CENTRAL`, `US_WEST`, `US_EAST`, `JAPAN`, `SOUTH_AMERICA`, `AUSTRALIA
 		{
 			"type": "GAMETYPE",
 			"gameModes": [
-				"GAMEMODE",
-				"GAMEMODE",
 				"GAMEMODE"
 			]
 		}
@@ -31,5 +29,5 @@ Region: `EU_CENTRAL`, `US_WEST`, `US_EAST`, `JAPAN`, `SOUTH_AMERICA`, `AUSTRALIA
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

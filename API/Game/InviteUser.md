@@ -19,5 +19,5 @@ EncodedPlatformUserId: `Platform ID`
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN

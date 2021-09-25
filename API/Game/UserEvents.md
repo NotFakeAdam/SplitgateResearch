@@ -14,5 +14,5 @@ Sent out from the client when actions happen.
 }
 ```
 
-## Header's
+## Headers
 - `Authorization`: TOKEN
