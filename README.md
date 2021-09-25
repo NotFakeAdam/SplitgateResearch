@@ -14,7 +14,7 @@
 
 # Table of Content
 - Content
-  - API Related Things - It can be found in *[Api](https://github.com/NotFakeAdam/SplitgateResearch/tree/main/Misc)*,
+  - API Related Things - It can be found in *[Api](https://github.com/NotFakeAdam/SplitgateResearch/tree/main/API)*,
   - Current Config - It can be found in *[Config](https://github.com/NotFakeAdam/SplitgateResearch/tree/main/Config%20Files)*,
   - Misc Stuff - It can be found in *[Misc things](https://github.com/NotFakeAdam/SplitgateResearch/tree/main/Misc)*.
 
