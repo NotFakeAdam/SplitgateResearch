@@ -16,7 +16,7 @@ ENDPOINT
 
 ## Body (x-www-form-urlencoded)
 
-```json
+```
 platform_token:PLATFORMTOKEN
 ```
 
