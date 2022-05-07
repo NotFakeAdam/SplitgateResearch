@@ -6,7 +6,7 @@ Authentication to interact with the splitgate api!!!!
 
 PLATFORMTOKEN: Steam Token (I Think).
 
-ENDPOINT
+## ENDPOINT
 
 `https://splitgate.accelbyte.io/iam/v3/oauth/platforms/steam/token`
 
@@ -25,7 +25,7 @@ ENDPOINT
 platform_token:PLATFORMTOKEN
 ```
 
-## Response Example
+## Response 
 
 ```json
 {
