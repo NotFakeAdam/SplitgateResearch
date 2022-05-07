@@ -16,6 +16,11 @@ ENDPOINT
 
 ## Body (x-www-form-urlencoded)
 
+
+| KEY            | VALUE         |
+| ---------------- | --------------- |
+| platform_token | PLATFORMTOKEN |
+
 ```
 platform_token:PLATFORMTOKEN
 ```
@@ -26,7 +31,7 @@ platform_token:PLATFORMTOKEN
 {
    "access_token":ACCESSTOKEN,
    "bans":[
-    
+  
    ],
    "display_name":DISPLAYNAME,
    "expires_in":3600,
@@ -40,7 +45,7 @@ platform_token:PLATFORMTOKEN
       }
    ],
    "permissions":[
-    
+  
    ],
    "platform_id":"steam",
    "platform_user_id":PLATFORMID,
