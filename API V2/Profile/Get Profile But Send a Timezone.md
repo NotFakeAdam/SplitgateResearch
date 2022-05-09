@@ -1,8 +1,8 @@
 # Profile
 
-Get your profile so you can have a look at idk what but 👀!!!!
+Get your profile but now you can send a timezone... wowie!!!!
 
-## Method `GET`
+## Method `PUT`
 
 TOKEN: Auth Token.  
 
@@ -13,6 +13,14 @@ TOKEN: Auth Token.
 ## Headers
 
 - `Authorization`: Bearer [TOKEN](../Auth/Auth%20Token.md)
+
+## Body (Json)
+
+```json
+{
+	"timezone": "+01:00"
+}
+```
 
 ## Response 
 
