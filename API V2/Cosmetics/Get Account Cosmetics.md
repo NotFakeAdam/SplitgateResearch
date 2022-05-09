@@ -1,19 +1,18 @@
-# Cosmetic
+# Cosmetics
 
-Authentication to interact with the splitgate api!!!!
+Get your locker using this so you could make cool and wacky wonderful bots or something!!!!
 
-## Data `GET`
+## Method `GET`
 
-TOKEN: Auth Token.  
 USERID: You can get this in Auth or just remember it.
 
-## ENDPOINT
+## Endpoint
 
 `https://splitgate.accelbyte.io/platform/public/namespaces/splitgate/users/USERID/customizations/chosen`
 
 ## Headers
 
-- `Authorization`: Bearer TOKEN
+- `Authorization`: Bearer [TOKEN](../Auth/Auth%20Token.md)
 
 ## Response 
 

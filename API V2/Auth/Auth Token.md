@@ -2,17 +2,17 @@
 
 Authentication to interact with the splitgate api!!!!
 
-## Data `POST`
+## Method `POST`
 
 PLATFORMTOKEN: Steam Token (I Think).
 
-## ENDPOINT
+## Endpoint
 
 `https://splitgate.accelbyte.io/iam/v3/oauth/platforms/steam/token`
 
 ## Headers
 
-- `Authorization`: Bearer TOKEN
+- `Authorization`: Basic MzZkOGEzN2JmZTlhNDEyYWJiMGIzMTc0OTM0NTg5YjU6
 
 ## Body (x-www-form-urlencoded)
 
